@@ -13,14 +13,14 @@ header {
   }
 
   
-  #past {
+  .past {
     background-color: gray;  
   }
 
-  #present {
+  .present {
     background-color: #dc3545;  
   }
 
-  #present {
+  .future {
     background-color: #198754;  
   }
