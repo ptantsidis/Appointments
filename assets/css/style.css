@@ -11,7 +11,13 @@ header {
   .timeslot h3, .timeslot textArea, .timeslot button {
     display: inline-block;
   }
-
+.textarea{
+  height: 2rem;
+  width: 18rem;
+}
+.container{
+  text-align: center;
+}
   
   .past {
     background-color: gray;  
