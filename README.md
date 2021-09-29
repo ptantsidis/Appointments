@@ -9,5 +9,7 @@ times are not editable
 //have past colors greyed out - past box time plus 1 hour - also disables the box 
 // current time equal red 
 future time aequals green
-![Alt text](//quiz_screen.png?raw=true "quizScreen")
-https://github.com/ptantsidis/scriptQuiz
+Technologies used include Bootstrap, Moment, jQuery.
+![Alt text](//./assets/images/AppointmentScreenShot.png?raw=true "AppoinmentScreenShot")
+https://github.com/ptantsidis/Appointments.git
+https://ptantsidis.github.io/Appointments/
