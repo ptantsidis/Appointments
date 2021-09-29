@@ -6,11 +6,9 @@ header {
     text-align: center;
 }
 
-  
-
-  .timeslot h3, .timeslot textArea, .timeslot button {
+.timeslot h3, .timeslot textArea, .timeslot button {
     display: inline-block;
-  }
+}
 .textarea{
   height: 2rem;
   width: 18rem;
@@ -19,14 +17,14 @@ header {
   text-align: center;
 }
   
-  .past {
-    background-color: gray;  
-  }
+.past {
+  background-color: gray;  
+}
 
-  .present {
-    background-color: #dc3545;  
-  }
+.present {
+  background-color: #dc3545;  
+}
 
-  .future {
-    background-color: #198754;  
-  }
+.future {
+  background-color: #198754;  
+}
