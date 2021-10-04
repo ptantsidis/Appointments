@@ -4,15 +4,17 @@
 
 header {
     text-align: center;
+    padding: 0;
 }
 
-.timeslot h3, .timeslot textArea, .timeslot button {
+/* .timeslot h3, .timeslot textArea, .timeslot button {
     display: inline-block;
-}
+} */
 .textarea{
-  height: 2rem;
-  width: 18rem;
-}
+  font: white;
+  font-size: 1rem;
+  width: 60%;
+} 
 .container{
   text-align: center;
 }
@@ -27,4 +29,13 @@ header {
 
 .future {
   background-color: #198754;  
+}
+
+h3{
+  width: 15%;
+  padding-top: 2%;
+}
+
+.savebtn{
+  width: 10%;
 }
