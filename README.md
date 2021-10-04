@@ -13,4 +13,4 @@ Technologies used include Bootstrap, Moment, jQuery.
 ![Alt text](//./assets/images/calendar_pic.png?raw=true "AppoinmentScreenShot")
 https://github.com/ptantsidis/Appointments.git
 https://ptantsidis.github.io/Appointments/
-Upgraded Finished Product - amore  user friendly
+Upgraded Finished Product - user friendly
