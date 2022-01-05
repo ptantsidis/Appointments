@@ -1,6 +1,3 @@
-Create Appointment Daily Planner
-
-Technologies used include Bootstrap, Moment, jQuery.
  # Appointments 
 ____
   ## Create Daily Appoinment Calender  
@@ -49,7 +46,7 @@ ____
   https://ptantsidis.github.io/Appointments/
 
   ## Contributions
-  Start from scratch.
+  Start from scratch Phil Tantsidis.
     
   ###  Contact
   ptantsidis@hotmail.com
